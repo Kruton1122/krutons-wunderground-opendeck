@@ -24,7 +24,7 @@ Display live weather data from your personal **Weather Underground** station dir
 
 | Sunny | Rainy | Night | Cloudy |
 |-------|-------|-------|--------|
-| Blue sky + sun icon | Dark sky + raindrops | Dark sky + moon | Grey sky |
+| Blue sky + sun icon | Dark sky + raindrops | Dark sky + moon | Gray sky |
 
 ---
 
@@ -79,7 +79,7 @@ Display live weather data from your personal **Weather Underground** station dir
 | **Show Humidity** | Display humidity percentage |
 | **Show Precip Rate** | Display precipitation rate (only shown when raining/snowing) |
 | **Auto Refresh** | How often to pull new data (1–30 min, or manual only) |
-| **Background** | Weather-based auto, black, dark grey, or custom color |
+| **Background** | Weather-based auto, black, dark gray, or custom color |
 | **Text Color** | Auto, white, black, or custom color |
 
 ---
